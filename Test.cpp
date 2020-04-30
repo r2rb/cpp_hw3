@@ -2,7 +2,7 @@
 // Created by owner on 4/30/2020.
 //
 #include "doctest.h"
-#include "Solver.hpp"
+#include "solver.hpp"
 
 TEST_CASE("test") {
             CHECK(1 == 1);
