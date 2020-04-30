@@ -8,7 +8,7 @@
 
 #include <iostream>
 #include <complex>
-#include "solver.hpp"
+#include "Solver.hpp"
 
 using namespace std;
 using solver::solve, solver::RealVariable, solver::ComplexVariable;
